@@ -254,6 +254,10 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    flex-wrap: wrap;
+}
+.child{
+    flex: 40%;
 }
 .faqParas span{
     color: #333;
